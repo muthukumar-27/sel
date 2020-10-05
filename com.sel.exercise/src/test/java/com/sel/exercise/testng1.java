@@ -23,7 +23,7 @@ public class testng1 {
 	@Test(dependsOnMethods="testing3")
 	public void testing2()
 	{
-		System.out.println("testinsdfdfsdsg2");
+		System.out.println("testinwrwrwrsdfdfsdsg2");
 	}
 	@Test()
 	public void testing3()
