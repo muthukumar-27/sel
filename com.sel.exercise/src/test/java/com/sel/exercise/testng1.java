@@ -24,7 +24,7 @@ public class testng1 {
 	public void testing2()
 	{
 
-		System.out.println("testdginsdfdsefssfs345sdsg2");
+		System.out.println("t");
 	}
 	@Test()
 	public void testing3()
